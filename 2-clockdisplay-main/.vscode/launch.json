@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/lixinyuan/Documents/courses/year01/OOP/classProject/ts-clockdisplay-main/src",
+      "program": "/Users/lixinyuan/Documents/courses/year01/OOP/classProject/ts-clockdisplay-main/src/build/Debug/outDebug"
+    }
+  ]
+}
